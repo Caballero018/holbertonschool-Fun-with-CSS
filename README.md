@@ -35,7 +35,7 @@ And this image file: <a href="images/0-sprite.png">0-sprite.png</a>
 
 Create 0-styles.css and generate this layout:
 
-![image](images/layout.png)
+![image](images-readme/layout.png)
 
 You are not allowed to change the image and the HTML - sprite is cool!
 
@@ -67,7 +67,7 @@ By using this HTML:
 
 Create 1-styles.css and generate this layout where the underline is hidden by default and appeared slowly…:
 
-![image](images/2-imagen.gif)
+![image](images-readme/2-imagen.gif)
 
 You are not allowed to change the HTML
 
@@ -104,11 +104,11 @@ Create 2-styles.css and generate this layout where the <input> is has this custo
 
 Checked:
 
-![image](images/checked.png)
+![image](images-readme/checked.png)
 
 Unchecked:
 
-![image](images/unchecked.png)
+![image](images-readme/unchecked.png)
 
 You are not allowed to change the HTML
 
@@ -152,7 +152,7 @@ By using this HTML:
 ~~~
 Create 3-styles.css and generate this layout/animation:
 
-![image](images/menu.gif)
+![image](images-readme/menu.gif)
 
 You are not allowed to change the HTML
 
